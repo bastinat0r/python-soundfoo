@@ -1,6 +1,7 @@
 # Playing around with Sound
 
-Requirements:
-	* numpy
-	* scikits.audiolab
-	* matplotlib
+## Requirements
+
+* numpy
+* scikits.audiolab
+* matplotlib
